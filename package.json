@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "brython": "^3.12.3",
+    "flask": "^0.2.10"
+  }
 }
